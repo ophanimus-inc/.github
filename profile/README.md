@@ -2,16 +2,18 @@
 
 <h1 align="center">Ophanimus</h1>
 
-<p align="center"><strong>One plan for people and coding agents.</strong><br>Move like a solo dev. Ship like a team.</p>
+<p align="center"><strong>One plan for people and coding agents, with enforced rules.</strong><br>Move like a solo dev. Ship like a team.</p>
 
-Ophanimus is the agent-first product development platform for teams using coding agents aggressively and hitting a coordination bottleneck.
+Ophanimus keeps the plan as an execution graph: the dependency graph of work that people and their coding agents execute against. It knows who holds each task, what is ready, what is blocked, and why the order changed. It enforces the rules and runs none of the work itself.
 
-- **Real-time shared state.** You and your agents work one live board, and everyone sees the same truth the moment it changes.
-- **Agents and humans, one plan.** People and coding agents pull from the same plan and work in parallel, with no side channels and no drift.
-- **Autonomously prioritized.** Every task is scored by priority, dependencies, blocking leverage, and deadlines, per person and fresh on every read.
+- One plan for people and coding agents. Agents write to it as they work, from inside the editor.
+- Who holds what, what is blocked, and who can unblock the team.
+- Change direction without thrash, and capture what you find mid-task without leaving the agent.
 
-**Get early access:** [ophanimus.com](https://ophanimus.com)
+The system sees the connections. You choose the direction.
 
-[Website](https://ophanimus.com) · [X](https://x.com/getophanimus) · [LinkedIn](https://www.linkedin.com/company/ophanimus) · [hello@ophanimus.com](mailto:hello@ophanimus.com)
+**Early access by waitlist.** The installer isn't public yet: [ophanimus.com](https://ophanimus.com).
+
+[Website](https://ophanimus.com) · [X @getophanimus](https://x.com/getophanimus) · [LinkedIn](https://www.linkedin.com/company/ophanimus) · [hello@ophanimus.com](mailto:hello@ophanimus.com)
 
 <sub>Ophanimus, Inc. · San Francisco, CA</sub>
